@@ -5,6 +5,34 @@
         <link>https://raw.githubusercontent.com/ct2eng/QuickCal-releases/master/appcast.xml</link>
         <description>Most recent updates to QuickCal</description>
         <language>en</language>
+        <!-- Version 1.3.0 -->
+        <item>
+            <title>Version 1.3.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.3.0</h2>
+                    <ul>
+                        <li>Bug fixes and performance improvements</li>
+                    </ul>
+                    
+                    <h2>新功能 1.3.0</h2>
+                    <ul>
+                        <li>錯誤修復和效能改善</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Sat, 21 Feb 2026 11:37:46 +0000</pubDate>
+            <sparkle:version>1.3.0</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure 
+                url="https://github.com/ct2eng/QuickCal-releases/releases/download/v1.3.0/QuickCal-1.3.0.zip"
+                sparkle:edSignature="4lR1IsaiT+umTdL9fYK6ZZBQpA81TlwgYovrc+z8OT0EO82F27J7EuD34to68mx61l1lOQTO7Z94LoA7UrUrAg=="
+                length="2601500"
+                type="application/octet-stream"
+            />
+        </item>
+
         <!-- Version 1.2.0 -->
         <item>
             <title>Version 1.2.0</title>
