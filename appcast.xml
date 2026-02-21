@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>QuickCal Updates</title>
+        <link>https://raw.githubusercontent.com/ct2eng/QuickCal-releases/master/appcast.xml</link>
+        <description>Most recent updates to QuickCal</description>
+        <language>en</language>
+        <!-- Version 1.2.0 -->
+        <item>
+            <title>Version 1.2.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.2.0</h2>
+                    <ul>
+                        <li>Bug fixes and performance improvements</li>
+                    </ul>
+                    
+                    <h2>新功能 1.2.0</h2>
+                    <ul>
+                        <li>錯誤修復和效能改善</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Sat, 21 Feb 2026 08:20:47 +0000</pubDate>
+            <sparkle:version>1.2.0</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure 
+                url="https://github.com/ct2eng/QuickCal-releases/releases/download/v1.2.0/QuickCal-1.2.0.zip"
+                sparkle:edSignature="hYMjXBWfNSD+hPi7DzzBlilLXxSgJry7Is/MgZAtMXSKC6IfzyYRJNLS1RwaJPo5rRzSDbSORsn5hC1u9rjRDw=="
+                length="2495584"
+                type="application/octet-stream"
+            />
+        </item>
+
+        
+        <!-- Example: Version 1.1.0 -->
+        <item>
+            <title>Version 1.1.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.1.0</h2>
+                    <ul>
+                        <li>Added automatic update checking</li>
+                        <li>Improved AI parsing accuracy</li>
+                        <li>Bug fixes and performance improvements</li>
+                    </ul>
+                    
+                    <h2>新功能 1.1.0</h2>
+                    <ul>
+                        <li>新增自動更新檢查</li>
+                        <li>改善 AI 解析準確度</li>
+                        <li>錯誤修復和效能改善</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Fri, 21 Feb 2026 11:45:00 +0000</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure 
+                url="https://github.com/ct2eng/QuickCal-releases/releases/download/v1.1.0/QuickCal-1.1.0.zip"
+                sparkle:edSignature="1thX0sug7xnMokAS8NXjE3bFv/Avma4kXJV0Hpl3iMAS94O5KMKG/TmhfHe9PSeuugUb3HS3rD06uOlMcQTtDg=="
+                length="2601501"
+                type="application/octet-stream"
+            />
+        </item>
+        
+        <!-- Initial Release: Version 1.0.0 -->
+        <item>
+            <title>Version 1.0.0</title>
+            <description>
+                <![CDATA[
+                    <h2>Initial Release</h2>
+                    <ul>
+                        <li>AI-powered calendar event parsing</li>
+                        <li>Multi-language support (繁中/English/한국어)</li>
+                        <li>Voice input support</li>
+                        <li>Screenshot OCR support</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Mon, 01 Jan 2026 10:00:00 +0000</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure 
+                url="https://github.com/ct2eng/QuickCal-releases/releases/download/v1.0.0/QuickCal-1.0.0.zip"
+                sparkle:edSignature="SIGNATURE_WILL_BE_GENERATED"
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+    </channel>
+</rss>
