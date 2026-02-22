@@ -5,6 +5,29 @@
         <link>https://raw.githubusercontent.com/ct2eng/QuickCal-releases/master/appcast.xml</link>
         <description>Most recent updates to QuickCal</description>
         <language>en</language>
+        <!-- Version 1.9.0 -->
+        <item>
+            <title>Version 1.9.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.9.0</h2>
+                    <ul>
+                        <li> calendar ui optimize</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Sun, 22 Feb 2026 13:46:24 +0000</pubDate>
+            <sparkle:version>1.9.0</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure 
+                url="https://github.com/ct2eng/QuickCal-releases/releases/download/v1.9.0/QuickCal-1.9.0.zip"
+                sparkle:edSignature="YCxZXlvEA5CXeA2B0fqSv5VVQQFo7b3dOWxwr4skMSEyq/pZMOW+sDhISvkIb5yeKJUHp3g5YplhkfJagQw4Dw=="
+                length="2621868"
+                type="application/octet-stream"
+            />
+        </item>
+
         <!-- Version 1.8.0 -->
         <item>
             <title>Version 1.8.0</title>
