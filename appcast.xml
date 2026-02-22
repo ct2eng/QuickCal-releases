@@ -22,7 +22,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure 
                 url="https://github.com/ct2eng/QuickCal-releases/releases/download/v1.6.0/QuickCal-1.6.0.zip"
-                sparkle:edSignature="8jp2RHovcijItCevBqV8voyGeTYim53HXGxsHOwBXTQR+gQOHqixU2XgMqx4mkMwU/KaLF8QnPMdXCavIOvSCQ=="
+                sparkle:edSignature="C4Zeb/Im8vn0uyUAY2eXfZAd5c+4Ku5bzxUxfIBAZzuJNRSO8Vb24n+Yl6i7DdzKThkS1/p7h77A+U3xFVtqDg=="
                 length="2621865"
                 type="application/octet-stream"
             />
