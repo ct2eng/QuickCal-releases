@@ -5,6 +5,30 @@
         <link>https://raw.githubusercontent.com/ct2eng/QuickCal-releases/master/appcast.xml</link>
         <description>Most recent updates to QuickCal</description>
         <language>en</language>
+        <!-- Version 1.10.0 -->
+        <item>
+            <title>Version 1.10.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.10.0</h2>
+                    <ul>
+                        <li> add cmd+v to upload pic</li>
+                        <li> add column all day</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Mon, 23 Feb 2026 03:43:34 +0000</pubDate>
+            <sparkle:version>1.10.0</sparkle:version>
+            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure 
+                url="https://github.com/ct2eng/QuickCal-releases/releases/download/v1.10.0/QuickCal-1.10.0.zip"
+                sparkle:edSignature="AqPCBz0aOi8TtQ4CRCPoCamKFfSr1H+hTxJDqIzB7Duc52jx946KSTCM9IBDMyjqt0FXrUKK7MRefP5Cm/tzBQ=="
+                length="2639445"
+                type="application/octet-stream"
+            />
+        </item>
+
         <!-- Version 1.9.0 -->
         <item>
             <title>Version 1.9.0</title>
