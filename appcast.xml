@@ -5,6 +5,34 @@
         <link>https://raw.githubusercontent.com/ct2eng/QuickCal-releases/master/appcast.xml</link>
         <description>Most recent updates to QuickCal</description>
         <language>en</language>
+        <!-- Version 2.0.0 -->
+        <item>
+            <title>Version 2.0.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 2.0.0</h2>
+                    <ul>
+                        <li> add cmd+v to upload pic</li>
+                        <li> add column all day</li>
+                        <li> ai fixed (next Friday bug)</li>
+                        <li> add edit page</li>
+                        <li> fixed bugs</li>
+                        <li> custom color</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Mon, 02 Mar 2026 05:57:43 +0000</pubDate>
+            <sparkle:version>2.0.0</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure 
+                url="https://github.com/ct2eng/QuickCal-releases/releases/download/v2.0.0/QuickCal-2.0.0.zip"
+                sparkle:edSignature="LALJBw8mHO7LxhU6tojW6wLUtl8fc8bKH5ZBfOsT7sR2fFv7b6vYm6xm1VZpKfr3Ycd8Kh7TBoxXTeNHe+rRDw=="
+                length="2745362"
+                type="application/octet-stream"
+            />
+        </item>
+
         <!-- Version 1.15.0 -->
         <item>
             <title>Version 1.15.0</title>
